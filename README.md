@@ -53,7 +53,8 @@ We covered a lot of the front-end, but notice that we are missing things like a 
 
 ## Backend Project
 // TODO Some discussion about API's and web apps that are served from the backend. Probably want to include stuff on Object Oriented programming
-// need to decide on a backend framework/language that will be useful in the professional world
+
+// TODO decide on a backend framework/language that will be useful in the professional world
 
 ## SQL vs. NoSQL databases
 - A link to a SQL udemy course (you can use my credentials to watch it). It's probably overkill.
