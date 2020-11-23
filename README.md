@@ -28,6 +28,8 @@ Take your time, and after you find youself doing this over and over again, these
 ## Javascript projects
 - How do you get better? Build stuff, do little projects. Do one a day for 30 days. https://javascript30.com/
 
+*(sidebar, this would be a good time to create an account in github and start keeping track of your coding projects - I can help you on this)*
+
 The course is free, and I used it when I was starting this stuff. You don't have to do all 30 projects, especially the ones that use webcams or other fancy stuff. The guy has a bit of a squeaky voice, but the content is good, and all of the answers are available if you get stuck. In a single day, you may only need to spend an hour or so. The goal of this section is to give you a strong enough foundation in javascript that you can be dangerous with it.
 
 ## Front-end frameworks
