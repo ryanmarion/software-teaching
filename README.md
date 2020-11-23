@@ -65,7 +65,7 @@ We covered a lot of the front-end, but notice that we are missing things like a 
 
 # Capstone project
 
-A full-stack web application - ideally a front-end that uses React/Redux, a backend for handling API requests for data, and a database that hold everything. Maybe at this point, we pivot to using an object oriented language? Or just use NodeJS since it's going to be the most straightforward. Once this is done, an idea might be to build a mobile app. Get the mobile app deployed to the app store. All of this should be enough to score interviews. Need to decide at this point to use SQL or NoSQL as a DB. Factor in costs, etc. Ideally, want to pay little to nothing to get this thing hosted.
+A full-stack web application - ideally a front-end that uses React/Redux, a backend for handling API requests for data, and a database that hold everything. Maybe at this point, we pivot to using an object oriented language? Or just use NodeJS since it's going to be the most straightforward. Once this is done, an idea might be to build a mobile app and get it deployed to the app store. All of this would require a lot of learning and could be overwhelming/unnecessary. This should be enough to score interviews. Need to decide at this point to use SQL or NoSQL as a DB. Factor in costs, etc. Ideally, want to pay little to nothing to get this thing hosted.
 
 # Interview preparation
 
