@@ -69,6 +69,6 @@ A full-stack web application - ideally a front-end that uses React/Redux, a back
 
 # Interview preparation
 
-This is a whole different beast on its own. The reason why I saved this for last is because it's the least relevant to actually being able to do the job. All of the stuff above will prepare you with a foundation to set you off on a good path. Besides answering questions about 
+This is a whole different beast on its own. The reason why I saved this for last is because it's the least relevant to actually being able to do the job. Learning this stuff is hard and boring, and you shouldn't have to worry about it until you're landing interviews in the first place.
 
 // TODO include some resources
